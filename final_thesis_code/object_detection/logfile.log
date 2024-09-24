@@ -1,0 +1,24 @@
+2024-08-25 22:10:03,590 - __main__ - WARNING - This model do not work on FP16. So use CPU mode.
+2024-08-25 22:10:05,848 - __main__ - INFO - desk.jpg
+2024-08-25 22:10:05,869 - __main__ - INFO - Start inference...
+2024-08-25 22:10:09,525 - __main__ - INFO - detected 27 instances
+2024-08-25 22:10:09,610 - __main__ - INFO - saved at : output.png
+2024-08-25 22:10:09,682 - __main__ - INFO - Script finished successfully.
+2024-08-25 22:10:39,938 - __main__ - WARNING - This model do not work on FP16. So use CPU mode.
+2024-08-25 22:10:41,249 - __main__ - INFO - 309.jpg
+2024-08-25 22:10:41,253 - __main__ - INFO - Start inference...
+2024-08-25 22:10:43,955 - __main__ - INFO - detected 16 instances
+2024-08-25 22:10:43,981 - __main__ - INFO - saved at : out_aug25th.png
+2024-08-25 22:10:44,011 - __main__ - INFO - Script finished successfully.
+2024-09-14 14:38:19,267 - __main__ - WARNING - This model do not work on FP16. So use CPU mode.
+2024-09-14 14:38:21,666 - __main__ - INFO - desk.jpg
+2024-09-14 14:38:21,692 - __main__ - INFO - Start inference...
+2024-09-14 14:38:24,948 - __main__ - INFO - detected 27 instances
+2024-09-14 14:38:25,032 - __main__ - INFO - saved at : output.png
+2024-09-14 14:38:25,097 - __main__ - INFO - Script finished successfully.
+2024-09-14 14:43:00,147 - __main__ - WARNING - This model do not work on FP16. So use CPU mode.
+2024-09-14 14:43:02,567 - __main__ - INFO - desk.jpg
+2024-09-14 14:43:02,577 - __main__ - INFO - Start inference...
+2024-09-14 14:43:05,809 - __main__ - INFO - detected 27 instances
+2024-09-14 14:43:05,880 - __main__ - INFO - saved at : output.png
+2024-09-14 14:43:05,935 - __main__ - INFO - Script finished successfully.
